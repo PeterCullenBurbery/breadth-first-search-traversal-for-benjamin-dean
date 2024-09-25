@@ -3,8 +3,8 @@
   
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.peter-burbery.breadth-first-search-traversal-for-benjamin-dean</groupId>
-  <artifactId>breadth-first-search-traversal-for-benjamin-dean</artifactId>
+  <groupId>com.peter-burbery.breadth-first-search-traversal-for-benjamin-dean-github-desktop</groupId>
+  <artifactId>breadth-first-search-traversal-for-benjamin-dean-github-desktop</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
